@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://claude.com/claude-code"><img alt="Claude Code skill" src="https://img.shields.io/badge/Claude%20Code-skill-8b5cf6?style=for-the-badge"></a>
-  <img alt="Node >= 21" src="https://img.shields.io/badge/node-%E2%89%A5%2021-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Node 21+" src="https://img.shields.io/badge/node-21%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-Chromium-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
   <img alt="Tests" src="https://img.shields.io/badge/tests-49%20passing-22c55e?style=for-the-badge">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-3b82f6?style=for-the-badge"></a>
