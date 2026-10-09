@@ -1,0 +1,7 @@
+{
+  "name": "pipeline-check-demo-shop",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs", "test": "node --test" },
+  "dependencies": { "express": "^4.21.0" }
+}
